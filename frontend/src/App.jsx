@@ -116,7 +116,7 @@ function App() {
           </div>
           <div className="border-t border-gray-700 pt-8 text-center">
             <p className="text-gray-400 text-sm">
-              © 2024 ProjectCars. Built with ❤️ using FastAPI + React + YOLOv8
+              © 2025 ProjectCars. Built with ❤️ using FastAPI + React + YOLOv8
             </p>
           </div>
         </div>
